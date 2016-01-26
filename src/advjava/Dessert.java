@@ -7,7 +7,7 @@ package advjava;
 
 /**
  *
- * @author ritu
+ * @author ritu rai
  */
 public abstract class Dessert implements Food{
     
